@@ -1,0 +1,5 @@
+Flask
+gunicorn
+requests
+twilio
+openai==1.2.1
